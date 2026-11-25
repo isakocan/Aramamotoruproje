@@ -24,7 +24,7 @@ The reviews are real user-generated web content and come with labels, so the dat
 **When?**
 | Dates | Milestone |
 |---|---|
-| 26 – 29 Nov | Data exploration, proposal (due 30 Nov) |
+| 23 – 29 Nov | Design decisions, data exploration, proposal (due 30 Nov) |
 | 30 Nov – 3 Dec | Data tools and pipeline |
 | 3 – 6 Dec | Agents |
 | 6 – 9 Dec | GUI |

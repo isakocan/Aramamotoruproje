@@ -25,7 +25,7 @@ Başlangıç: 23 Kasım 2026
 
 ### Faz 1 – Öneri + veri keşfi (26–29 Kasım)
 - [ ] Veri setini indir, kayıt sayısı / format / dağılımları çıkar
-- [ ] 1 sayfalık öneriyi yaz (Why / What / How / When + veri seti + grup)
+- [x] 1 sayfalık öneriyi yaz → `oneri/proposal.pdf`
 - [ ] Çıktı al → **30 Kasım teslim**
 
 ### Faz 2 – Tool'lar, LLM olmadan (30 Kasım – 3 Aralık)
