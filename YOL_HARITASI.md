@@ -24,7 +24,7 @@ Başlangıç: 23 Kasım 2026
 - [x] Grup: **2 kişi** (ad-soyad + öğrenci no öneriye yazılacak; demoda ikisi de her yeri bilmeli)
 
 ### Faz 1 – Öneri + veri keşfi (26–29 Kasım)
-- [ ] Veri setini indir, kayıt sayısı / format / dağılımları çıkar
+- [x] Veri setini indir, kayıt sayısı / format / dağılımları çıkar → `docs/veri_kesfi.md`
 - [x] 1 sayfalık öneriyi yaz → `oneri/proposal.pdf`
 - [ ] Çıktı al → **30 Kasım teslim**
 
